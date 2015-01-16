@@ -1,12 +1,6 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
+PROJECT TITLE:  Unit 7, Lesson 24: Celebrity Name
 PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+VERSION or DATE: 2015-01-19
+HOW TO START THIS PROJECT: Fork this code and modify it to suit the needs of the Lesson 24 project
+AUTHOR: Mr. Jaffe
+
